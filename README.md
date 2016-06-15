@@ -20,31 +20,31 @@ a better UI/UX for future project use.
 
 ## GEM USED
 
-![alt text](http://baronkwan.github.io/assets/images/projects/logo-gem-solidus.png "gem-solidus")
+![alt text](http://baronkwan.github.io/assets/images/projects/logo/logo-gem-solidus.png "gem-solidus")
 
 ## FRAMEWORKS & LANGUAGES USED
 
 
-<img src="http://baronkwan.github.io/assets/images/projects/logo-ruby.png" alt="ruby" width="100"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-rubyonrails.png" alt="rubyonrails" width="100"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-javascript.png" alt="javascript" width="100"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-html5.png" alt="html5" width="100"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-css3.png" alt="css3" width="100"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-bootstrap.png" alt="bootstrap" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo/logo-ruby.png" alt="ruby" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo/logo-rubyonrails.png" alt="rubyonrails" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo/logo-javascript.png" alt="javascript" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo/logo-html5.png" alt="html5" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo/logo-css3.png" alt="css3" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo/logo-bootstrap.png" alt="bootstrap" width="100"/>
 
 
 ## PROJECT SCREENSHOT
 
 
-<img src="./project_screenshot/1.png"/>
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-1.png"/>
 
-<img src="./project_screenshot/2.png"/>
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-1.png"/>
 
-<img src="./project_screenshot/3.png"/>
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-3.png"/>
 
-<img src="./project_screenshot/4.png"/>
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-4.png"/>
 
-<img src="./project_screenshot/5.png"/>
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-5.png"/>
 
-<img src="./project_screenshot/6.png"/>
+<img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-6.png"/>
 
