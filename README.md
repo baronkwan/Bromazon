@@ -24,10 +24,10 @@ a better UI/UX for future project use.
 
 ## FRAMEWORKS & LANGUAGES USED
 
-<img src="http://baronkwan.github.io/assets/images/projects/logo-ruby.png" alt="ruby" style="width: 100px;"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-rubyonrails.png" alt="rubyonrails" style="width: 100px;"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-javascript.png" alt="javascript" style="width: 100px;"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-html5.png" alt="html5" style="width: 100px;"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-css3.png" alt="css3" style="width: 100px;"/>
-<img src="http://baronkwan.github.io/assets/images/projects/logo-bootstrap.png" alt="bootstrap" style="width: 100px;"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo-ruby.png" alt="ruby" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo-rubyonrails.png" alt="rubyonrails" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo-javascript.png" alt="javascript" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo-html5.png" alt="html5" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo-css3.png" alt="css3" width="100"/>
+<img src="http://baronkwan.github.io/assets/images/projects/logo-bootstrap.png" alt="bootstrap" width="100"/>
 
