@@ -18,7 +18,7 @@
 <img src="http://baronkwan.github.io/assets/images/projects/logo-gem-solidus.png" width="100px">
 
 - solidus_api (RESTful API)
-- ### solidus_frontend (Cart and storefront) <= Mainly focus on this in this project
+- **solidus_frontend (Cart and storefront) <= Mainly focus on this in this project**
 - solidus_backend (Admin area)
 - solidus_core (Essential models, mailers, and classes)
 - solidus_sample (Sample Data)
