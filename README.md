@@ -13,7 +13,7 @@ a better UI/UX for future project use.
 ```
 
 - ~~solidus_api (RESTful API)~~
-- **solidus_frontend (Cart and storefront)** *Mainly focus on*
+- **solidus_frontend (Cart and storefront)** *Currently focusing on this session*
 - ~~solidus_backend (Admin area)~~
 - ~~solidus_core (Essential models, mailers, and classes)~~
 - ~~solidus_sample (Sample Data)~~
