@@ -31,3 +31,11 @@ a better UI/UX for future project use.
 <img src="http://baronkwan.github.io/assets/images/projects/logo-css3.png" alt="css3" width="100"/>
 <img src="http://baronkwan.github.io/assets/images/projects/logo-bootstrap.png" alt="bootstrap" width="100"/>
 
+## PROJECT SCREENSHOT
+
+<img src="./project_screenshot/1.png" width="180"/>
+<img src="./project_screenshot/2.png" width="180"/>
+<img src="./project_screenshot/3.png" width="180"/>
+<img src="./project_screenshot/4.png" width="180"/>
+<img src="./project_screenshot/5.png" width="180"/>
+
