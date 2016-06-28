@@ -1,6 +1,6 @@
 # Bromazon eCommerce Store
 
-Heroku Link:[https://bromazon.herokuapp.com/](https://bromazon.herokuapp.com/ "Bromazon eCommerce Store")
+Heroku Link: [https://bromazon.herokuapp.com/](https://bromazon.herokuapp.com/ "Bromazon eCommerce Store")
 
 ### PROJECT SUMMARY
 
