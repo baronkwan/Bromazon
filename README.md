@@ -1,6 +1,6 @@
-# MyStore
+# Bromazon eCommerce Store
 
-[Bromazon eCommerce Store](https://bromazon.herokuapp.com/ "Bromazon")
+[Deploy to Heroku: https://bromazon.herokuapp.com/](https://bromazon.herokuapp.com/ "Bromazon eCommerce Store")
 
 ### PROJECT SUMMARY
 
