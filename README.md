@@ -24,7 +24,6 @@ a better UI/UX for future project use.
 
 ## FRAMEWORKS & LANGUAGES USED
 
-
 <img src="http://baronkwan.github.io/assets/images/projects/logo/logo-ruby.png" alt="ruby" width="100"/>
 <img src="http://baronkwan.github.io/assets/images/projects/logo/logo-rubyonrails.png" alt="rubyonrails" width="100"/>
 <img src="http://baronkwan.github.io/assets/images/projects/logo/logo-javascript.png" alt="javascript" width="100"/>
@@ -34,7 +33,6 @@ a better UI/UX for future project use.
 
 
 ## PROJECT SCREENSHOT
-
 
 <img src="http://baronkwan.github.io/assets/images/projects/screenshots/myStore-1.png"/>
 
